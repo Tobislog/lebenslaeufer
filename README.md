@@ -1,4 +1,4 @@
-# CV-Generator (The Odin Project)
+# Lebenslaeufer - a CV-Generator
 
 An interactive, modern resume builder built with **React** as part of [The Odin Project](https://www.theodinproject.com/) Frontend curriculum.
 
