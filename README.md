@@ -13,6 +13,7 @@ This Application allows users to input, edit, and preview their personal details
 - **Framework:** [React](https://react.dev/)
 - **Build Tool:** [Vite](https://vite.dev/)
 - **Styling:** CSS3 / Modern CSS (Flexbox & Grid)
+- **Testing:** Vitest, React Testing Library, Jest-DOM
 
 **Live Preview:** [Netlify](http://lebenslaeufer.netlify.app/)
 
