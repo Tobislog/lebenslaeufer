@@ -34,7 +34,7 @@ function EducationItem ({item, onChange, onDelete, disabled}) {
                 disabled={disabled}
             />
             {!disabled && (
-                <button type="buton" onClick={() => onDelete(item.id)}>
+                <button type="button" onClick={() => onDelete(item.id)}>
                     Löschen
                 </button>
             )}
